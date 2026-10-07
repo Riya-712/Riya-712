@@ -91,4 +91,3 @@ I build systems that are **data-driven, explainable, evaluated and practical**, 
   <a href="https://github.com/Riya-712"><img src="https://img.shields.io/badge/GitHub-Riya--712-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
