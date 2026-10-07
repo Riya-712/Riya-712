@@ -1,215 +1,94 @@
-# Hi, I'm Riya Raut 👋
+<h1 align="center">Hi, I'm Riya Raut 👋</h1>
 
-### Data Science Master's Student | AI Engineering | Data Analytics
+<p align="center">
+  <b>Data Science Master's Student · AI Engineer · Data Analyst</b><br>
+  I turn messy data and real business problems into practical, explainable solutions.
+</p>
 
-I build **AI applications and data-driven solutions** using Python, SQL, machine learning, Generative AI, RAG, and analytics tools.
-
-My work spans two areas:
-
-- 🤖 **AI Engineering** — LLM applications, RAG, AI agents, embeddings, APIs, automation, and evaluation
-- 📊 **Data Analytics** — SQL, Python, data cleaning, ETL, business analysis, dashboards, KPIs, and machine learning
-
-I enjoy turning **messy data and business problems into practical, explainable solutions**.
-
----
-
-## 🧠 Core Skills
-
-### 🤖 AI & Generative AI
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic AI
-- Prompt Engineering
-- Embeddings & Semantic Search
-- Vector Databases
-- Tool Calling
-- LLM Evaluation
-- Grounding & Guardrails
-- Human-in-the-Loop Workflows
-
-**Tools:** LangChain, ChromaDB, Qdrant, Groq, Hugging Face
-
-### 📊 Data Analytics & Data Science
-- SQL & PostgreSQL
-- Python & pandas
-- Data Cleaning & Validation
-- Data Profiling
-- ETL / Data Transformation
-- Exploratory Data Analysis
-- Statistical Analysis
-- KPI Analysis
-- Customer & Product Analytics
-- Machine Learning
-
-**Tools:** Excel, Power BI, scikit-learn, PostgreSQL
-
-### ⚙️ Engineering
-- Python
-- FastAPI
-- Streamlit
-- REST APIs
-- JSON / Pydantic
-- SQLite
-- Git & GitHub
-- Testing with pytest
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🧭 What I Do
 
-## 🤖 AI Engineering & Generative AI
-
-### 1. Autonomous Accounts Payable Worker
-**LLM Planning | AI Agents | Tool Calling | FastAPI | Streamlit**
-
-An autonomous AI worker that converts natural-language accounts-payable objectives into bounded workflows with tool execution, policy controls, retries, human approval, and independent verification.
-
-**Key concepts demonstrated:**
-- LLM-based planning
-- Tool execution
-- Policy-controlled autonomy
-- Human-in-the-loop approval
-- Retry and recovery
-- Duplicate/conflict detection
-- Independent verification
-- Execution tracing
-
-[View Project →](https://github.com/Riya-712/Autonomous-invoice-processing-agent)
-
----
-
-### 2. NovaMart Support Copilot
-**RAG | LLM | Embeddings | ChromaDB | Python | Streamlit**
-
-An AI-assisted retail customer support copilot that combines customer context, ticket retrieval, intent classification, knowledge-base retrieval, similar-ticket search, and grounded response generation.
-
-**Key concepts demonstrated:**
-- Retrieval-Augmented Generation
-- Semantic search
-- Embeddings
-- Intent classification
-- Similar-ticket retrieval
-- Grounded responses
-- Citations
-- LLM evaluation
-
-[View Project →](https://github.com/Riya-712/Customer-Support-Copilot)
-
----
-
-### 3. Flipkart Product Recommender Chatbot
-**RAG | LangChain | Qdrant | Semantic Search | LLM**
-
-A conversational product discovery system that retrieves relevant product-review information using semantic search and generates context-grounded recommendations.
-
-**Key concepts demonstrated:**
-- RAG pipeline
-- Vector search
-- Embeddings
-- Qdrant
-- LangChain
-- LLM-powered recommendations
-
-[View Project →](https://github.com/Riya-712/Flipkart-product-recommender-chatbot)
-
----
-
-# 📊 Data Analytics & Data Science
-
-### 4. Data-Driven Retail Analytics
-**Python | SQL | PostgreSQL | Power BI | Machine Learning**
-
-An end-to-end retail analytics project focused on customer behavior, retention, customer value, product relationships, and demand forecasting.
-
-**Key areas:**
-- Python-based ETL
-- SQL analytics
-- Customer segmentation
-- Customer lifetime value
-- Churn-risk analysis
-- Product bundling analysis
-- Demand forecasting
-- Power BI dashboards
-- Business KPI analysis
-
-[View Project →](https://github.com/Riya-712/Data-Driven-Retail-Analytics-Power-BI-Python-SQL-)
-
----
-
-### 5. ERP Data Governance & Quality Analytics
-**Python | SQL | PostgreSQL | Power BI | Data Quality**
-
-A data-quality and governance project focused on identifying and monitoring issues across ERP datasets.
-
-**Key areas:**
-- Data profiling
-- Data validation
-- Missing-value analysis
-- Duplicate detection
-- Standardization
-- Data-quality rules
-- SQL analysis
-- Power BI quality dashboards
-
-[View Project →](https://github.com/Riya-712/ERP-data-governance)
-
----
-
-## 🛠️ Technical Toolkit
-
-| Area | Technologies |
+| 🤖 AI Engineering | 📊 Data Analytics |
 |---|---|
-| Programming | Python, SQL |
-| AI / GenAI | LLMs, RAG, AI Agents, Prompt Engineering |
-| AI Frameworks | LangChain |
-| Vector Databases | ChromaDB, Qdrant |
-| ML | scikit-learn |
-| Data Analysis | pandas, NumPy, SQL |
-| Databases | PostgreSQL, SQLite |
-| APIs | FastAPI, REST APIs |
-| Visualization | Power BI, Excel |
-| App Development | Streamlit |
-| Data Processing | ETL, Data Cleaning, Data Validation |
-| Developer Tools | Git, GitHub, pytest |
+| LLM apps, RAG, AI agents, embeddings, tool calling, evaluation & guardrails | SQL, Python, ETL, data quality, KPIs, dashboards & machine learning |
 
 ---
 
-# 🎯 What I'm Currently Building
+## 🛠️ Tech Stack
 
-I'm currently focused on building practical projects at the intersection of:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Data → Machine Learning → Generative AI → AI Engineering**
-
-Areas I'm actively developing:
-
-- Agentic AI
-- RAG systems
-- LLM evaluation
-- AI workflow automation
-- Data analytics
-- SQL & business intelligence
-- Production-oriented Python applications
-
----
-
-# 📈 My Approach
-
-I focus on building systems that are:
-
-**Data-driven → Explainable → Evaluated → Practical**
-
-Rather than building only demos, I try to understand:
-
-- What business problem is being solved?
-- What data is required?
-- How should the system make decisions?
-- How can results be evaluated?
-- What happens when the system fails?
-- How can the solution be made reliable?
+**Vector DBs:** ChromaDB · Qdrant  |  **LLMs:** Groq · Hugging Face  |  **Testing:** pytest
 
 ---
 
-# 📫 Connect With Me
+## 🚀 Featured Projects
 
-- 💼 LinkedIn: [Riya Raut](https://www.linkedin.com/)
-- 🐙 GitHub: [Riya-712](https://github.com/Riya-712)
+### 🤖 AI Engineering
+
+**🧾 [Autonomous Accounts Payable Worker](https://github.com/Riya-712/Autonomous-invoice-processing-agent)**
+AI agent that turns plain-English AP goals into safe, bounded workflows, with tool calling, policy controls, human approval, retries and independent verification.
+`LLM Agents` `FastAPI` `Streamlit`
+
+**🎧 [NovaMart Support Copilot](https://github.com/Riya-712/Customer-Support-Copilot)**
+RAG-powered support assistant that classifies intent, finds similar tickets and generates grounded, cited replies.
+`RAG` `ChromaDB` `Embeddings` `Streamlit`
+
+**🛍️ [Flipkart Product Recommender Chatbot](https://github.com/Riya-712/Flipkart-product-recommender-chatbot)**
+Conversational product discovery using semantic search over reviews to give context-aware recommendations.
+`LangChain` `Qdrant` `LLM`
+
+### 📊 Data Analytics
+
+**🏪 [Data-Driven Retail Analytics](https://github.com/Riya-712/Data-Driven-Retail-Analytics-Power-BI-Python-SQL-)**
+End-to-end analysis of customer segments, lifetime value, churn risk, product bundles and demand forecasting, with Power BI dashboards.
+`Python` `SQL` `PostgreSQL` `Power BI` `ML`
+
+**🗂️ [ERP Data Governance & Quality Analytics](https://github.com/Riya-712/ERP-data-governance)**
+Profiling and monitoring of ERP data: missing values, duplicates, validation rules and quality dashboards.
+`Python` `SQL` `Power BI` `Data Quality`
+
+---
+
+## 🎯 Currently Exploring
+
+`Agentic AI` · `RAG Systems` · `LLM Evaluation` · `AI Workflow Automation` · `SQL & BI` · `Production-ready Python`
+
+> **Data → Machine Learning → Generative AI → AI Engineering**
+
+---
+
+## 💡 My Approach
+
+I build systems that are **data-driven, explainable, evaluated and practical**, and I always ask: *What problem are we solving? How do we measure success? What happens when it fails?*
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Riya-712"><img src="https://img.shields.io/badge/GitHub-Riya--712-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by!</i></p>
